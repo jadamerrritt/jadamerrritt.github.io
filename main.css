@@ -1,14 +1,8 @@
-@font-face{
-    
-    font-family: 'farao';
-    src: url('Farao OT Bold copy.otf');  
-}
-
 
 
 body{
 color: Black;
-font-family: farao; 
+font-family: Arial Narrow; 
 font-size: 17px;
      padding: 35px;
 
@@ -17,7 +11,7 @@ background: linear-gradient(to right bottom, #181896, white, red);
 
 h1{
 color: Black;
-font-family: farao; 
+font-family: Arial Narrow; 
 font-size: 60px;
 line-height: 35%;
 text-align: center;
@@ -37,7 +31,7 @@ a:hover{
 
 h2 {
   color: Black;
-  font-family: farao; 
+  font-family: Arial Narrow; 
   font-size: 40px;
   line-height: 25%;
   text-align: center;
@@ -51,7 +45,7 @@ p{
 
 h3 {
   color: Black;
-  font-family: farao; 
+  font-family: Arial Narrow; 
   font-size: 30px;
     padding-left: 20px;
 }
@@ -60,7 +54,7 @@ h3 {
 h4{
 line-height:10%;
     color: black;
-    font-family: farao;
+    font-family: Arial Narrow;
     font-size: 20px;
     padding-left: 20px;
     font-weight: 600;
